@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
