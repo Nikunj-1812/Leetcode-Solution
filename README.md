@@ -52,9 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0383-ransom-note) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
