@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0661-image-smoother](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0661-image-smoother) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0066-plus-one) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
