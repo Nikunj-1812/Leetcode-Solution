@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0066-plus-one) |
+| [0179-largest-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0661-image-smoother](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0661-image-smoother) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0015-3sum) |
+| [0179-largest-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0179-largest-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0383-ransom-note](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0383-ransom-note) |
 ## Counting
 |  |
@@ -72,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
