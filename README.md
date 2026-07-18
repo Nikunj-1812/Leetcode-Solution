@@ -97,4 +97,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0190-reverse-bits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
