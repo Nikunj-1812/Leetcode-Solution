@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0228-summary-ranges) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 ## Divide and Conquer
