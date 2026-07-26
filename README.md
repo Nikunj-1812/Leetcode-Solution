@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0179-largest-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0242-valid-anagram) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0071-simplify-path) |
 ## Greedy
 |  |
 | ------- |
