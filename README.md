@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 ## Recursion
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
