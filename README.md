@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0415-add-strings](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0415-add-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0071-simplify-path) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0155-min-stack) |
 ## Greedy
 |  |
