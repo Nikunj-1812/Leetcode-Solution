@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0415-add-strings) |
+| [1603-design-parking-system](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1603-design-parking-system) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0383-ransom-note) |
+| [1603-design-parking-system](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Stack
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0155-min-stack) |
+| [1603-design-parking-system](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
 |  |
 | ------- |
