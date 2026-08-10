@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0242-valid-anagram) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0155-min-stack) |
 | [1603-design-parking-system](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1603-design-parking-system) |
 ## Dynamic Programming
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
@@ -232,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
