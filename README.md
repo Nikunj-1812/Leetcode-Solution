@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0661-image-smoother](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0661-image-smoother) |
 | [0875-koko-eating-bananas](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
