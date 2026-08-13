@@ -13,6 +13,7 @@ class Solution {
         ListNode prev = null;
         ListNode curr = head;
         ListNode temp = null;
+
         while(curr != null){
             temp = curr.next;
             curr.next = prev;
@@ -28,18 +29,16 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
-        ListNode temp =reverse(slow.next);
+        ListNode temp = reverse(slow.next);
         slow.next = temp;
         ListNode p1 = head;
         ListNode p2 = slow.next;
-        while(p2 != null){
-            if(p1.val != p2.val){
-                return false;
-            }
+        while(p2!= null){
+            if(p1.val != p2.val) return false;
             p1 = p1.next;
-            p2= p2.next;
+            p2 = p2.next;
         }
         return true;
-        
+
     }
 }
