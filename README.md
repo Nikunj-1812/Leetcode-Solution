@@ -251,5 +251,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
