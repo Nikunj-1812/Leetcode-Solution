@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0661-image-smoother](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0661-image-smoother) |
 | [0875-koko-eating-bananas](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Greedy
 |  |
@@ -279,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
