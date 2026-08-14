@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0224-basic-calculator) |
@@ -287,6 +289,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
