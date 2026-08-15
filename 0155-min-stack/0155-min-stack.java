@@ -1,44 +1,47 @@
 class MinStack {
-    ArrayList<Integer> arr;
-    ArrayList<Integer> mini;
+    Stack<Long> st = new Stack<>();
+    long min = -1;
 
     public MinStack() {
-        arr = new ArrayList<>();
-        mini = new ArrayList<>();
     }
     
     public void push(int value) {
-        arr.add(value);
-        if (mini.isEmpty()) {
-            mini.add(value);
-        } else {
-            mini.add(Math.min(mini.get(mini.size() - 1), value));
+        long x = (long)value;
+        if(st.size() == 0){
+            st.push(x);
+            min = x;
+        }
+        else if(x >= min){
+            st.push(x);
+        }
+        else {
+            st.push(2*x - min);
+            min = x;
         }
     }
     
     public void pop() {
-        if (!arr.isEmpty()) {
-            arr.remove(arr.size() - 1);
-            mini.remove(mini.size() - 1);
-        }   
+        if(st.size() == 0) return;
+        if(st.peek() >= min){
+            st.pop();
+        }
+        else{
+            long oldMin = 2*min - st.peek();
+            min = oldMin;
+            st.pop();
+        }
     }
     
     public int top() {
-        if(arr.isEmpty()) return -1;
-        return arr.get(arr.size()-1);
+        if(st.size() == 0) return -1;
+        long q = st.peek();
+        if(q >= min)
+            return (int)q;
+        return (int)min;
     }
     
     public int getMin() {
-        if(mini.isEmpty()) return -1;
-        return mini.get(mini.size() - 1);
+        if(st.size() == 0) return -1;
+        return (int)min;
     }
 }
-
-/**
- * Your MinStack object will be instantiated and called as such:
- * MinStack obj = new MinStack();
- * obj.push(value);
- * obj.pop();
- * int param_3 = obj.top();
- * int param_4 = obj.getMin();
- */
