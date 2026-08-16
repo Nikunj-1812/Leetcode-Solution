@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0228-summary-ranges) |
+| [0239-sliding-window-maximum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
@@ -222,10 +224,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 ## Linked List
 |  |
@@ -298,4 +302,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
