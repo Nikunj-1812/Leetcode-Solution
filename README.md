@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
+| [1590-make-sum-divisible-by-p](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0567-permutation-in-string) |
+| [1590-make-sum-divisible-by-p](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 ## Math
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [1590-make-sum-divisible-by-p](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## String
 |  |
