@@ -1,14 +1,30 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
+
         if(s.length() != t.length()) return false;
-        int[] arr = new int[26];
-        for(int i =0;i<s.length();i++){
-            arr[s.charAt(i) - 'a']++;
-            arr[t.charAt(i) - 'a']--;
+        HashMap<Character,Integer> map1 = new HashMap<>();
+        HashMap<Character,Integer> map2 = new HashMap<>();
+
+        for(int i = 0;i<t.length();i++){
+            Character ch = t.charAt(i);
+            if(!map1.containsKey(ch)){
+                map1.put(ch,1);
+            }else{
+                int currfreq = map1.get(ch);
+                map1.put(ch, currfreq+1);
+            }
         }
-        for(int check:arr){
-            if(check != 0) return false;
+        for(int i = 0;i<s.length();i++){
+            Character ch = s.charAt(i);
+            if(!map2.containsKey(ch)){
+                map2.put(ch,1);
+            }else{
+                int currfreq = map2.get(ch);
+                map2.put(ch, currfreq+1);
+            }
         }
-       return true; 
+
+        return map1.equals(map2);
+
     }
 }
