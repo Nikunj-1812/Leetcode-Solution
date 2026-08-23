@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0056-merge-intervals) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 ## Monotonic Stack
 |  |
@@ -337,4 +339,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
