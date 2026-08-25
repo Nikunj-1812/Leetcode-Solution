@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2560-house-robber-iv](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2560-house-robber-iv) |
+| [2596-check-knight-tour-configuration](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0661-image-smoother) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [2596-check-knight-tour-configuration](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0415-add-strings) |
 | [1603-design-parking-system](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1603-design-parking-system) |
+| [2596-check-knight-tour-configuration](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Tree
 |  |
 | ------- |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [2596-check-knight-tour-configuration](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
 | ------- |
