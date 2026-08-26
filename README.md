@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0006-zigzag-conversion) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0071-simplify-path) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0113-path-sum-ii) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 ## Algorithm X
 |  |
 | ------- |
