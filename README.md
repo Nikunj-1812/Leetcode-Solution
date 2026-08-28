@@ -314,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0226-invert-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
