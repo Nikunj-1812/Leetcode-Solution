@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2428-maximum-sum-of-an-hourglass) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2560-house-robber-iv](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2560-house-robber-iv) |
 ## Bit Manipulation
 |  |
