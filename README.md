@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0383-ransom-note) |
+| [0992-subarrays-with-k-different-integers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1603-design-parking-system](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1603-design-parking-system) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
