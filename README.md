@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Tree
 |  |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
