@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
+| [1089-duplicate-zeros](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
+| [1089-duplicate-zeros](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
