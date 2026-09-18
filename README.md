@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0228-summary-ranges](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0228-summary-ranges) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0290-word-pattern) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1603-design-parking-system](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1603-design-parking-system) |
@@ -276,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
@@ -473,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
