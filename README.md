@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0454-4sum-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -348,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -469,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0523-continuous-subarray-sum) |
 ## Dancing Links
 |  |
