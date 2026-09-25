@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Tree
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0662-maximum-width-of-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
