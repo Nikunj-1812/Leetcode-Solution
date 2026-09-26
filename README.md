@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1590-make-sum-divisible-by-p) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Counting
 |  |
 | ------- |
