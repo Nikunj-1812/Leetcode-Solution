@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0918-maximum-sum-circular-subarray) |
 | [2560-house-robber-iv](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2560-house-robber-iv) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -485,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Lifting
 |  |
