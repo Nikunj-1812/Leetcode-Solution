@@ -524,4 +524,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
