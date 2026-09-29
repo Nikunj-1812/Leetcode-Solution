@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0224-basic-calculator) |
 | [0415-add-strings](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -538,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
