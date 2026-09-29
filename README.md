@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2490-circular-sentence](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2490-circular-sentence) |
 ## Counting
 |  |
 | ------- |
