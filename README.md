@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0567-permutation-in-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0179-largest-number) |
 | [0410-split-array-largest-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0881-boats-to-save-people](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2560-house-robber-iv](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2560-house-robber-iv) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Algorithm X
