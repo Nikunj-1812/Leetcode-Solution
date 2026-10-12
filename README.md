@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 ## Geometry
