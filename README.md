@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0881-boats-to-save-people](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Binary Search
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2560-house-robber-iv](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2560-house-robber-iv) |
 ## Sliding Window
