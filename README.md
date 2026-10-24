@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
+| [2409-count-days-spent-together](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2409-count-days-spent-together) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2409-count-days-spent-together](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2409-count-days-spent-together) |
 | [2490-circular-sentence](https://github.com/Nikunj-1812/Leetcode-Solution/tree/master/2490-circular-sentence) |
 ## Counting
 |  |
